@@ -1,0 +1,4 @@
+enum RealtyType {
+  location,
+  sell,
+}
